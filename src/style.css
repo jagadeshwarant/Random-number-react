@@ -12,6 +12,7 @@
   flex-direction: column;
   justify-content:space-around;
   border-radius: 5%;
+  padding: 5%;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
@@ -27,8 +28,14 @@
   font-size: 300%;
 }
 
-.number button{
+.one{
     margin-left: 10%;
     margin-right: 10%;
     padding: 5%;
+}
+
+.two{
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 5%;
 }
